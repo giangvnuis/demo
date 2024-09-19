@@ -2,7 +2,7 @@
 
 ## GROUP <add-group-name>
 
-- Member 1: <add-name>
+- Member 1: <Huong-Giang-Nguyen-Thi>
 - Member 2: <add-name>
 - Member 3: <add-name>
 - Member 4: <add-name>
