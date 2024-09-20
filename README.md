@@ -1,8 +1,8 @@
 # README
 
-## GROUP <add-group-name>
+## GROUP AAA
 
-- Member 1: <Huong-Giang-Nguyen-Thi>
+- Member 1: Huong-Giang-Nguyen-Thi
 - Member 2: <add-name>
 - Member 3: <add-name>
 - Member 4: <add-name>
@@ -15,19 +15,4 @@
 
 ## Stop server
 
-`CTRL + C`
-
-### Bundle install
-Installing required libraries, you can run this command multiple time. If there is an error, let make sure this command has been executed successfully.
-
-`bundle install`
-
-### Migrate database
-
-`rails db:migrate`
-
-## Optional
-
-### Rails console
-
-`rails c`
+`CTRL + C`-
